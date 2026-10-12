@@ -13,6 +13,9 @@ Demand Tracking & Alerts: Integrated Power BI dashboards connected to the data p
 
 Quoting Automation: Deployed automation bots that query carrier rate tables, calculate profit margins, and format commercial proposals automatically.
 
+<img width="2880" height="4450" alt="Inventory   Freight Ops Center@2x" src="https://github.com/user-attachments/assets/0d58f57a-b808-4d77-b3dc-f7fa01e976b5" />
+
+
 Key Technologies Used
 Languages & Analytics: Python, SQL, DAX, Power Query
 
